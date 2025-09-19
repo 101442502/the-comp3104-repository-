@@ -1,1 +1,5 @@
 language: generic
+
+script:
+  - echo "Hello from Travis CI"
+
